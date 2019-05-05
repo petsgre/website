@@ -13,6 +13,7 @@
   "author": "zx",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.4.1",
     "tslib": "^1.9.3"
   }
 }
